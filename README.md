@@ -1,6 +1,6 @@
 # comercio-electronico
 
-A new Flutter project.
+Un nuevo proyecto de Flutter para Barberia. Solo es una prueba.
 
 ## Getting Started
 
